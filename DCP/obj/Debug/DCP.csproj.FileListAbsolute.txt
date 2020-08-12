@@ -1,0 +1,11 @@
+C:\Users\dango\source\repos\DCP\DCP\bin\Debug\DCP.exe.config
+C:\Users\dango\source\repos\DCP\DCP\bin\Debug\DCP.exe
+C:\Users\dango\source\repos\DCP\DCP\bin\Debug\DCP.pdb
+C:\Users\dango\source\repos\DCP\DCP\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\dango\source\repos\DCP\DCP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dango\source\repos\DCP\DCP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dango\source\repos\DCP\DCP\obj\Debug\DCP.csprojAssemblyReference.cache
+C:\Users\dango\source\repos\DCP\DCP\obj\Debug\DCP.csproj.CoreCompileInputs.cache
+C:\Users\dango\source\repos\DCP\DCP\obj\Debug\DCP.csproj.CopyComplete
+C:\Users\dango\source\repos\DCP\DCP\obj\Debug\DCP.exe
+C:\Users\dango\source\repos\DCP\DCP\obj\Debug\DCP.pdb
